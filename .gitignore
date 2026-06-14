@@ -21,3 +21,25 @@ data/
   unit1/
   unit2/
   resources/
+
+
+
+# DeepSense datasets and large files
+data/
+dataset/
+datasets/
+sceneri6/data/
+sceneri6/dataset/
+sceneri6/datasets/
+*.zip
+*.rar
+*.7z
+*.npy
+*.npz
+*.csv
+*.mat
+*.h5
+*.pth
+*.pt
+*.onnx
+
