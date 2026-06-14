@@ -1,0 +1,23 @@
+# DeepSense 6G Capstone Project
+
+This repository contains my capstone project based on the DeepSense 6G dataset.  
+The project focuses on beam prediction in 6G V2I networks using GPS, visual, LiDAR, and machine learning based approaches.
+
+## Project Overview
+
+The goal of this project is to improve beam prediction performance by using multimodal sensor data and learning-based models.
+
+## Dataset
+
+This project is based on the DeepSense 6G Scenario 8 dataset.
+
+Due to dataset size and licensing restrictions, the dataset is not included in this repository.
+
+Expected dataset structure:
+
+```text
+data/
+  scenario32.csv
+  unit1/
+  unit2/
+  resources/
